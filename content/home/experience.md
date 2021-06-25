@@ -27,7 +27,7 @@ experience:
     company_url:
     company_logo:
     location: Indiana
-    date_start:'2018-01-01'
+    date_start: '2018-01-01'
     date_end:
     description: |2-
         Responsibilities include:
