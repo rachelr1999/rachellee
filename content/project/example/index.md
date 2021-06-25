@@ -26,7 +26,7 @@ links: []
 image:
   caption: ""
   focal_point: ""
-  preview_only: false
+  preview_only: true
   filename: 3c-58_optandxray.png
 url_code: ""
 ---
