@@ -4,6 +4,7 @@ avatar_filename: avatar.png
 bio: ""
 interests:
   - Observational and Time Domain Astronomy
+  - Supernovae
   - Supernova Remnant Morphology and Energetics
   - Progenitor System Analysis
   - Stellar Evolution
@@ -24,7 +25,7 @@ organizations:
     url: https://www.purdue.edu
 education:
   courses:
-    - course: BSc in Physics
+    - course: BSc, Physics
       institution: Purdue University
       year: 2021
 superuser: true
