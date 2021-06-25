@@ -23,29 +23,38 @@ date_format: Jan 2006
 #   Leave other parameters empty if not required.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 item:
-- certificate_url: https://www.coursera.org
-  date_end: ""
-  date_start: "2021-01-25"
-  description: ""
-  organization: Coursera
-  organization_url: https://www.coursera.org
-  title: Neural Networks and Deep Learning
+- certificate_url: https://www.physics.purdue.edu/about/prizes_awards/undergraduate_awards.html
+  date_end: "2020-08-14"
+  date_start: "2019-08-14"
+  description: This scholarship is awarded to outstanding physics upperclassmen who participate in Women in Science Programs at Purdue University.
+  organization: 
+  organization_url: 
+  title: David G. Seiler Physics Scholarship
   url: ""
-- certificate_url: https://www.edx.org
-  date_end: ""
-  date_start: "2021-01-01"
-  description: Formulated informed blockchain models, hypotheses, and use cases.
-  organization: edX
-  organization_url: https://www.edx.org
-  title: Blockchain Fundamentals
-  url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
-- certificate_url: https://www.datacamp.com
-  date_end: "2020-12-21"
-  date_start: "2020-07-01"
-  description: ""
-  organization: DataCamp
-  organization_url: https://www.datacamp.com
-  title: 'Object-Oriented Programming in R'
+- certificate_url: https://www.physics.purdue.edu/about/prizes_awards/undergraduate_awards.html
+  date_end: "2020-08-14"
+  date_start: "2019-08-14"
+  description: This award is given to outstanding undergraduate physics majors that promote gender diversity throughout the Physics and Astronomy Department at Purdue University through participation in Women in Physics.
+  organization: 
+  organization_url: 
+  title: Lijuan Wang Memorial Award
+  url: " "
+- certificate_url: https://www.physics.purdue.edu/about/prizes_awards/undergraduate_awards.html
+  date_end: "2018-8-14"
+  date_start: "2021-05-14"
+  description: This 1-year scholarship is awarded to outstanding physics upperclassmen at Purdue. I am a two time recipient of this award.
+  organization: 
+  organization_url: 
+  title: Margie and Don Bottorff Undergraduate Physics Scholarship
+  url: ""
+  
+- certificate_url: https://www.physics.purdue.edu/about/prizes_awards/undergraduate_awards.html
+  date_end: "2017-8-14"
+  date_start: "2018-08-14"
+  description: An award given to promising incoming freshman in the Physics Department at Purdue University that allows a small group of students to begin research during their first year at Purdue.
+  organization: 
+  organization_url: 
+  title: Ascarelli Fellowship
   url: ""
 
 design:
