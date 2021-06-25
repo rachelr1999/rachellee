@@ -7,16 +7,13 @@ summary: My research seeks to determine precise distances to galactic supernova
   2  data release. I have chosen candidates for spectroscopic observation that
   are of appropriate magnitude and are the most likely to be located behind the
   ejecta from the supernova. I will examine high-resolution spectra of these
-  stars in order to identify possible Na I and Ca II absorption features
-  associated with the cold gas of the SNR. I will then conclude the location of
-  the stars relative to the SNR based on the presence and intensity of
-  absorption features. This research has inspired proposals for high resolution
-  spectroscopic observations; Dr. Milisavljevic and I have been approved for the
-  newly commissioned NEID instrument on the WIYN 3.5m telescope. We are also
-  applying for additional observing time on the Gemini 8m telescope.
-  Additionally, I have become accustomed to comparing Chandra X-Ray images to
-  optical images and determining which candidates are the most advantageous for
-  spectroscopic observation.
+  stars in order to identify possible Na ID and Ca H&K absorption features
+  associated with the cold gas of the SNR. Using these spectra, I am then able
+  to conclude that distance to the remnant based on the distances to the stars
+  that present appropriate absorption features. Observations were conducted on
+  the WIYN 3.5m telescope in the 2021A semester using the newly comissioned NEID
+  instrument. We are also applying for additional observing time on the Gemini
+  8m telescope.
 url_video: ""
 tags: []
 external_link: no project page
