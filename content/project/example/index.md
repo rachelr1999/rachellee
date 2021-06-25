@@ -16,9 +16,9 @@ summary: My research seeks to determine precise distances to galactic supernova
   8m telescope.
 url_video: ""
 tags: []
-external_link: no project page
+external_link: N/A
 url_slides: ""
-title: Precise Distances to Supernova Remnants Project
+title: Precise Distances to Supernova Remnants
 links: []
 image:
   caption: ""
