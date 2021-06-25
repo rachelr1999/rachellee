@@ -22,13 +22,13 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
-  - title: Research Assistant
+    - title: Research Assistant
     company: Purdue Univeristy Department of Physics and Astronomy
-    company_url: ''
-    company_logo: ''
+    company_url:
+    company_logo:
     location: Indiana
     date_start:'2018-01-01'
-    date_end: ''
+    date_end:
     description: |2-
         Responsibilities include:
         
