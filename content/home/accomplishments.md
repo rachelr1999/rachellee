@@ -49,7 +49,7 @@ item:
   url: 
   
 - certificate_url: https://www.physics.purdue.edu/about/prizes_awards/undergraduate_awards.html
-  date_end: '2017-8-14'
+  date_end: '2017-08-14'
   date_start: '2018-08-14'
   description: An award given to promising incoming freshman in the Physics Department at Purdue University that allows a small group of students to begin research during their first year at Purdue.
   organization: Purdue University Physics and Astronomy Department
