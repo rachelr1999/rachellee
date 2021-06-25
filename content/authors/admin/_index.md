@@ -32,6 +32,6 @@ highlight_name: false
 title: Rachel R. Lee
 email: ""
 ---
-I am a research assistant in Time Domain Astronomy in the Physics and Astronomy Department at Purdue University with Professor Dan Milisavljevic. My research interests include observational and time domain astronomy, supernova remnant morphology and energetics, progenitor system analysis, and stellar evolution and formation. My current work is in determining precise distances to supernova remnants through the utilization of absorption spectroscopy of surrounding stars.
+I am a research assistant in Time Domain Astronomy in the Physics and Astronomy Department at Purdue University with Professor Dan Milisavljevic. My research interests include observational and time domain astronomy, supernova remnant morphology and energetics, progenitor system analysis, and stellar evolution and formation. My current work is in determining precise distances to supernova remnants through the utilization of absorption spectroscopy of surrounding stars. 
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/rachel_lee_cv.pdf" "newtab" >}}CV{{< /staticref >}}.
