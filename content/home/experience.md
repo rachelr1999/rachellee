@@ -18,11 +18,11 @@ experience:
         * Read and chart weather data from locations across the world to provide information about probable observational capabilities.
         * Compile galactic supernova candidate information.
         * Present research findings at laboratory meetings and to astrophysics students.
-widget_id: experience
+widget_id: Experience
 headless: true
 weight: 40
 title: Experience
 subtitle: null
 design:
-  columns: "1"
+  columns: "2"
 ---
