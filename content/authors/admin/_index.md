@@ -3,7 +3,7 @@ role: Research Assistant; Outreach and Education Liaison for REFITT
 avatar_filename: ""
 bio: ""
 interests:
-  - "My research interests: Observational and Time Domain Astronomy: Supernovae"
+  - Observational and Time Domain Astronomy
   - Supernova Remnant Morphology and Energetics
   - Progenitor System Analysis
   - Stellar Evolution
