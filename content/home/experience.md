@@ -1,5 +1,5 @@
 ---
-widget: blank
+widget: experience
 date_format: Jan 2006
 experience:
   - title: Research Assistant
@@ -22,7 +22,7 @@ experience:
         * Compile galactic supernova candidate information.
         * Present research findings at laboratory meetings and to astrophysics students.
         * Review and synthesize literature to advance my research.
-widget_id: blank
+widget_id: experience
 headless: true
 weight: 40
 title: Experience
