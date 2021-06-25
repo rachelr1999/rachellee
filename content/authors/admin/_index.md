@@ -18,7 +18,7 @@ social:
     link: https://github.com/rachelr1999
   - icon: linkedin
     icon_pack: fab
-    link: www.linkedin.com/in/rachellee4
+    link: https://www.linkedin.com/in/rachellee4
 organizations:
   - name: Purdue University
     url: https://www.purdue.edu
