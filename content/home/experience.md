@@ -14,7 +14,7 @@ subtitle:
 
 # Date format for experience
 #   Refer to https://wowchemy.com/docs/customization/#date-format
-date_format: Jan 2006
+date_format: Jun 2021
 
 # Experiences.
 #   Add/remove as many `experience` items below as you like.
@@ -22,28 +22,28 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
-  - title: CEO
-    company: GenCoin
+  - title: Research Assistant
+    company: Purdue Univeristy Department of Physics and Astronomy
     company_url: ''
-    company_logo: org-gc
-    location: California
-    date_start: '2021-01-01'
+    company_logo:
+    location: Indiana
+    date_start: '2018-01-01'
     date_end: ''
     description: |2-
         Responsibilities include:
         
-        * Analysing
-        * Modelling
-        * Deploying
+        * Obtain and analyze data from Gaia Space Observatory to create documentation of stellar source candidates for spectroscopic analysis in order to determine locations of stars relative to a supernova remnant.
+        * Compare Chandra X-Ray images to optical images to determine which candidates will result in the most advantageous spectroscopic observations.
+        *Create and collaborate on observational proposals for usage of Gemini Telescopes and GMOS for multi-slit spectroscopy as well as the newly commissioned NEID instrument on the WIYN 3.5m telescope.
+        * Assist in developing a platform to coordinate ground-based facilities and follow up transients discovered by the Large Synoptic Survey Telescope (LSST).
+        * Create and maintain a master list of optical observatories across the world.
+        * Read and chart weather data from locations across the world to provide information about probable observational capabilities.
+        * Compile galactic supernova candidate information.
+        * Present research findings at laboratory meetings and to astrophysics students
+        * Review and synthesize literature to advance my research.
+        * Manage, analyze, and interpret large data sets.
+        * Collaborate with team members and act in a leadership role with junior research assistants
         
-  - title: Professor of Semiconductor Physics
-    company: University X
-    company_url: ''
-    company_logo: org-x
-    location: California
-    date_start: '2016-01-01'
-    date_end: '2020-12-31'
-    description: Taught electronic engineering and researched semiconductor physics.
 
 design:
   columns: '2'
