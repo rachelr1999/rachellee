@@ -27,6 +27,6 @@ image:
   caption: ""
   focal_point: Smart
   preview_only: true
-  filename: 3c-58_optandxray.png
+  filename: featured.png
 url_code: ""
 ---
