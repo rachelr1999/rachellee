@@ -1,5 +1,5 @@
 ---
-widget: experience
+widget: Experience
 date_format: Jan 2006
 experience:
   - title: Research Assistant
