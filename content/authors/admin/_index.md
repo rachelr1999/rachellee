@@ -36,4 +36,4 @@ Rachel Lee is a research assistant in Time Domain Astronomy in the Physics and A
 
 
 
-{{< icon name="download" pack="fas" >}} Download my {{ /staticref <"assets/media/rachel_lee_cv.pdf" "newtab" >}}CV{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my {{</staticref "assets/media/rachel_lee_cv.pdf" "newtab" >}}CV{{< /staticref >}}.
