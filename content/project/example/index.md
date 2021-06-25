@@ -2,7 +2,9 @@
 slides: example
 url_pdf: ""
 date: 2016-04-27T00:00:00Z
-summary: An example of using the in-built project page.
+summary: This project utilizes absorption spectroscopy of stars contained in the
+  ISM surrounding the supernova remnant as a method of determining the distance
+  to the remnant itself.
 url_video: ""
 tags: []
 external_link: h
