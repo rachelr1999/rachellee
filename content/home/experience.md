@@ -20,7 +20,7 @@ date_format: 2021-06-25
 #   Add/remove as many `experience` items below as you like.
 #   Required fields are `title`, `company`, and `date_start`.
 #   Leave `date_end` empty if it's your current employer.
-#   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
+#   Begin multi-line descriptions with YAML's `|1-` multi-line prefix.
 experience:
   - title: Research Assistant
     company: Purdue Univeristy Department of Physics and Astronomy
@@ -29,7 +29,7 @@ experience:
     location: Indiana
     date_start: '2018-01-01'
     date_end: ''
-    description: |2-
+    description: |1-
         Responsibilities include:
         
         * Obtain and analyze data from Gaia Space Observatory to create documentation of stellar source candidates for spectroscopic analysis in order to determine locations of stars relative to a supernova remnant.
