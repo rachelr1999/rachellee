@@ -19,7 +19,7 @@ summary: My research seeks to determine precise distances to galactic supernova
   spectroscopic observation.
 url_video: ""
 tags: []
-external_link: h
+external_link: no project page
 url_slides: ""
 title: Precise Distances to Supernova Remnants Project
 links: []
