@@ -40,7 +40,7 @@ item:
   title: Lijuan Wang Memorial Award
   url: 
 - certificate_url: https://www.physics.purdue.edu/about/prizes_awards/undergraduate_awards.html
-  date_end: '2018-8-14'
+  date_end: '2018-08-14'
   date_start: '2021-05-14'
   description: This 1-year scholarship is awarded to outstanding physics upperclassmen at Purdue. I am a two time recipient of this award.
   organization: Purdue University Physics and Astronomy Department
