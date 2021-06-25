@@ -1,7 +1,7 @@
 ---
 slides: example
 url_pdf: ""
-date: 2016-04-27T00:00:00Z
+date: 2021-06-25T18:52:11.044Z
 summary: My research seeks to determine precise distances to galactic supernova
   remnants (SNR) by using parallax measurements of stars obtained from the GAIA
   2  data release. I have chosen candidates for spectroscopic observation that
@@ -26,6 +26,7 @@ links: []
 image:
   caption: ""
   focal_point: ""
-  preview_only: true
+  preview_only: false
+  filename: 3c-58_optandxray.png
 url_code: ""
 ---
