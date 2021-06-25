@@ -1,5 +1,5 @@
 ---
-title: REFITT
+title: "REFITT (Recommender Engine for Intelligent Transient Tracking) "
 date: 2021-06-25T19:09:34.122Z
 summary: The goal of this project is to coordinate professional and amateur
   astronomers on a global scale as a method of performing time-sensitive
