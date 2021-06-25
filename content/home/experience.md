@@ -1,35 +1,15 @@
 ---
-# An instance of the Experience widget.
-# Documentation: https://wowchemy.com/docs/page-builder/
-widget: experience
-
-# This file represents a page section.
-headless: true
-
-# Order that this section appears on the page.
-weight: 40
-
-title: Experience
-subtitle:
-
-# Date format for experience
-#   Refer to https://wowchemy.com/docs/customization/#date-format
+widget: portfolio
 date_format: Jan 2006
-
-# Experiences.
-#   Add/remove as many `experience` items below as you like.
-#   Required fields are `title`, `company`, and `date_start`.
-#   Leave `date_end` empty if it's your current employer.
-#   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
   - title: Research Assistant
     company: Purdue Univeristy Department of Physics and Astronomy
-    company_url:
-    company_logo:
+    company_url: null
+    company_logo: null
     location: Indiana
-    date_start: '2018-01-01'
-    date_end:
-    description: |2-
+    date_start: 2018-01-01
+    date_end: null
+    description: >-2
         Responsibilities include:
         
         * Obtain and analyze data from Gaia Space Observatory to create documentation of stellar source candidates for spectroscopic analysis in order to determine locations of stars relative to a supernova remnant.
@@ -42,8 +22,11 @@ experience:
         * Compile galactic supernova candidate information.
         * Present research findings at laboratory meetings and to astrophysics students.
         * Review and synthesize literature to advance my research.
-        
-
+widget_id: Experience
+headless: true
+weight: 40
+title: Experience
+subtitle: null
 design:
-  columns: '2'
+  columns: "2"
 ---
