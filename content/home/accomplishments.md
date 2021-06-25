@@ -30,7 +30,7 @@ item:
   organization: Purdue University Physics and Astronomy Department
   organization_url: 
   title: David G. Seiler Physics Scholarship
-  url: ''
+  url: 
 - certificate_url: https://www.physics.purdue.edu/about/prizes_awards/undergraduate_awards.html
   date_end: '2020-08-14'
   date_start: '2019-08-14'
@@ -38,7 +38,7 @@ item:
   organization: Purdue University Physics and Astronomy Department
   organization_url: 
   title: Lijuan Wang Memorial Award
-  url: ''
+  url: 
 - certificate_url: https://www.physics.purdue.edu/about/prizes_awards/undergraduate_awards.html
   date_end: '2018-8-14'
   date_start: '2021-05-14'
@@ -46,7 +46,7 @@ item:
   organization: Purdue University Physics and Astronomy Department
   organization_url: 
   title: Margie and Don Bottorff Undergraduate Physics Scholarship
-  url: ''
+  url: 
   
 - certificate_url: https://www.physics.purdue.edu/about/prizes_awards/undergraduate_awards.html
   date_end: '2017-8-14'
@@ -55,7 +55,7 @@ item:
   organization: Purdue University Physics and Astronomy Department
   organization_url: 
   title: Ascarelli Fellowship
-  url: ''
+  url: 
 
 design:
   columns: '2' 
