@@ -24,6 +24,6 @@ image:
   caption: ""
   focal_point: Smart
   preview_only: true
-  filename: featured.png
+  filename: featured.jpg
 url_code: ""
 ---
