@@ -29,7 +29,7 @@ experience:
     location: Indiana
     date_start: '2018-01-01'
     date_end:
-    description: |2-
+    description: |1-
         Responsibilities include:
         
         * Obtain and analyze data from Gaia Space Observatory to create documentation of stellar source candidates for spectroscopic analysis in order to determine locations of stars relative to a supernova remnant.
