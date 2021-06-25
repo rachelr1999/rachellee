@@ -25,8 +25,8 @@ title: Precise Distances to Supernova Remnants Project
 links: []
 image:
   caption: ""
-  focal_point: ""
-  preview_only: true
+  focal_point: Smart
+  preview_only: false
   filename: 3c-58_optandxray.png
 url_code: ""
 ---
