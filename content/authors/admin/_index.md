@@ -34,4 +34,4 @@ email: ""
 ---
 Rachel Lee is a research assistant in Time Domain Astronomy in the Physics and Astronomy Department at Purdue University with Dr. Dan Milisavljevic. Her research interests include observational and time domain astronomy, supernova remnant morphology and energetics, progenitor system analysis, and stellar evolution and formation. Her current work is in determining precise distances to supernova remnants through the utilization of absorption spectroscopy of surrounding stars.
 
-{{< icon name="download" pack="fas" >}} Download my {{< /staticref "assets/media/Rachel_Lee_CV.pdf" "newtab" >}}CV{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my {{< /staticref "/assets/media/Rachel_Lee_CV.pdf/" "newtab" >}}CV{{< /staticref >}}.
