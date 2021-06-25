@@ -12,11 +12,11 @@ font_size: L
 
 # SEO
 
-site_type: Person
-local_business_type: ''
-org_name: ''
-description: ''
-twitter: ''
+#site_type: Person
+#local_business_type: ''
+#org_name: ''
+#description: ''
+#twitter: ''
 
 # Contact (edit or remove options as required)
 
@@ -68,8 +68,8 @@ main_menu:
 
 # Localization
 
-date_format: 'Jan 2, 2006'
-time_format: '3:04 PM'
+date_format: 'Jun 25, 2021'
+time_format: '13:37'
 address_format: en-us
 
 # Site features
