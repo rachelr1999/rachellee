@@ -40,9 +40,8 @@ experience:
         * Create and maintain a master list of optical observatories across the world.
         * Read and chart weather data from locations across the world to provide information about probable observational capabilities.
         * Compile galactic supernova candidate information.
-        * Present research findings at laboratory meetings and to astrophysics students
+        * Present research findings at laboratory meetings and to astrophysics students.
         * Review and synthesize literature to advance my research.
-        * Collaborate with team members and act in a leadership role with junior research assistants
         
 
 design:
