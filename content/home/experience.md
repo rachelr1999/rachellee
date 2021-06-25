@@ -22,7 +22,7 @@ date_format: 2006-01-01
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|1-` multi-line prefix.
 experience:
-- title: 'Research Assistant'
+  - title: 'Research Assistant'
     company: 'Purdue Univeristy Department of Physics and Astronomy'
     company_url: ''
     company_logo: ''
