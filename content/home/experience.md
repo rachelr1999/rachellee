@@ -25,7 +25,7 @@ experience:
   - title: 'Research Assistant'
     company: 'Purdue Univeristy Department of Physics and Astronomy'
     company_url: ''
-    company_logo: " "
+    company_logo: ''
     location: 'Indiana'
     date_start: '2018-01-01'
     date_end: ''
