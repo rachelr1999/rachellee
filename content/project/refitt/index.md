@@ -14,7 +14,7 @@ draft: false
 featured: false
 external_link: https://refitt.physics.purdue.edu
 image:
-  filename: refitt.png
+  filename: featured.png
   focal_point: Smart
   preview_only: false
 ---
