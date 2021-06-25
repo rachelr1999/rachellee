@@ -14,7 +14,7 @@ subtitle:
 
 # Date format for experience
 #   Refer to https://wowchemy.com/docs/customization/#date-format
-date_format: 2021-06-25
+date_format: Jun 2006
 
 # Experiences.
 #   Add/remove as many `experience` items below as you like.
