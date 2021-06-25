@@ -1,6 +1,6 @@
 ---
 role: Research Assistant; Outreach and Education Liaison for REFITT
-avatar_filename: ""
+avatar_filename: img_2543.jpeg
 bio: ""
 interests:
   - Observational and Time Domain Astronomy
