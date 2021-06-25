@@ -18,7 +18,7 @@ url_video: ""
 tags: []
 external_link: N/A
 url_slides: ""
-title: Precise Distances to Supernova Remnants
+title: "Precise Distances to Supernova Remnants "
 links: []
 image:
   caption: ""
