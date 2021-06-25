@@ -24,7 +24,7 @@ organizations:
     url: https://www.purdue.edu
 education:
   courses:
-    - course: B.S. in Physics
+    - course: BSc in Physics
       institution: Purdue University
       year: 2021
 superuser: true
