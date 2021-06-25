@@ -1,6 +1,6 @@
 ---
 title: REFITT
-date: 2021-06-25T18:59:48.180Z
+date: 2021-06-25T19:09:34.122Z
 summary: The goal of this project is to coordinate professional and amateur
   astronomers globally to perform time-sensitive observations of astronomical
   transients. REFITT is the world's first AI engine with the capabilities to
@@ -16,5 +16,5 @@ external_link: https://refitt.physics.purdue.edu
 image:
   filename: refitt.png
   focal_point: Smart
-  preview_only: false
+  preview_only: true
 ---
