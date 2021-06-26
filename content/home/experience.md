@@ -1,6 +1,7 @@
 ---
 widget: experience
 headless: true  # This file represents a page section.
+weight=40
 
 # ... Put Your Section Options Here (title etc.) ...
 
@@ -13,14 +14,14 @@ date_format: Jan 2006
 #   Required fields are `title`, `company`, and `date_start`.
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with `>-`.
-experience:
+Experience:
   - title: 'Research Assistant'
     company: 'Purdue University Physics and Astronomy Department'
     company_url: ''
     location: 'Indiana'
     date_start: '2018-01-01'
     date_end: ''
-    description: >-
+    description: |2-
         Responsibilities include:
         
         * Obtain and analyze data from Gaia Space Observatory to create documentation of stellar source candidates for spectroscopic analysis in order to determine locations of stars relative to a supernova remnant.
@@ -30,3 +31,5 @@ experience:
         * Compile galactic supernova candidate information.
         * Present research findings at laboratory meetings and to astrophysics students.
 ---
+design:
+  columns:'2'
