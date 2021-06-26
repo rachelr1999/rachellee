@@ -30,6 +30,6 @@ Experience:
         * Read and chart weather data from locations across the world to provide information about probable observational capabilities.
         * Compile galactic supernova candidate information.
         * Present research findings at laboratory meetings and to astrophysics students.
----
 design:
-  columns:'2'
+  columns: '2'
+---
