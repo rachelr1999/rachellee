@@ -25,7 +25,7 @@ organizations:
     url: https://www.purdue.edu
 education:
   courses:
-    - course: BSc, Physics
+    - course: B.S., Physics
       institution: Purdue University
       year: 2021
 superuser: true
@@ -35,6 +35,6 @@ email: ""
 ---
 I am a research assistant in Time Domain Astronomy in the Physics and Astronomy Department at Purdue University with Professor Dan Milisavljevic. My research interests include observational and time domain astronomy, supernova remnant morphology and energetics, progenitor system analysis, and stellar evolution and formation. My current work is in determining precise distances to supernova remnants through the utilization of absorption spectroscopy of surrounding stars. 
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/rachel_lee_cv.pdf" "newtab" >}}CV{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/CV_updated-2.pdf" "newtab" >}}CV{{< /staticref >}}.
 
 Email: lee2676@purdue.edu
