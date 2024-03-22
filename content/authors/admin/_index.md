@@ -1,19 +1,20 @@
 ---
-role: Research Assistant; Outreach and Education Liaison for REFITT
+role: Graduate Student
 avatar_filename: avatar.png
 bio: ""
 interests:
+  - Protostellar Variability
+  - Star Formation
   - Observational and Time Domain Astronomy
   - Supernovae
   - Supernova Remnant Morphology and Energetics
   - Progenitor System Analysis
   - Stellar Evolution
-  - Stellar Formation
   - Spectroscopy
 social:
   - icon: envelope
     icon_pack: fas
-    link: lee2676@purdue.edu
+    link: rachel.lee@uconn.edu
   - icon: github
     icon_pack: fab
     link: https://github.com/rachelr1999
@@ -40,4 +41,4 @@ I am a research assistant in Time Domain Astronomy in the Physics and Astronomy 
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/Rachel_Lee_CV21.pdf" "newtab" >}}CV{{< /staticref >}}.
 
-Email: lee2676@purdue.edu
+Email: rachel.lee@uconn.edu
