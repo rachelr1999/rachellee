@@ -21,10 +21,13 @@ social:
     icon_pack: fab
     link: https://www.linkedin.com/in/rachellee4
 organizations:
-  - name: Purdue University
-    url: https://www.purdue.edu
+  - name: University of Connecticut
+    url: https://physics.uconn.edu
 education:
   courses:
+    - course: PhD Student, Physics
+      institution: University of Connecticut
+      year:2022-Present
     - course: B.S., Physics
       institution: Purdue University
       year: 2021
