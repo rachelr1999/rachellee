@@ -27,7 +27,7 @@ education:
   courses:
     - course: PhD Student, Physics
       institution: University of Connecticut
-      year:2022-Present
+      year: Present
     - course: B.S., Physics
       institution: Purdue University
       year: 2021
